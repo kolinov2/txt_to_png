@@ -1,4 +1,6 @@
 # Text to PNG Converter
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) ![version](https://img.shields.io/badge/version-1.0-green)
+
 ![bannerotp](https://github.com/user-attachments/assets/77e6b7e0-dcef-4f0c-84d6-6e549bb26f9e)
 
 This project provides a Python script that converts a UTF-8 encoded text file into a PNG image, where each pixel represents a portion of the text encoded in RGB color values. The image is created with the exact dimensions required to fully encode the text, and any excess bits are padded with black pixels.
